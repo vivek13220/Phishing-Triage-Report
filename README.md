@@ -12,7 +12,15 @@ This project simulates the real-world workflow of a Security Operations Center (
 ### 📧 Phishing Email Artifact
 Key indicators like look-alike domains and urgent messaging were identified in the raw email text:
 
-![Phishing Email Screenshot](email.png)
+<img width="1470" height="827" alt="email" src="https://github.com/user-attachments/assets/2ee1596a-9d6a-4b6b-b043-37655f1784c1" />
+
+### 💻 Infrastructure Investigation
+Running a `whois` lookup in the macOS Terminal to verify domain creation dates:
+
+<img width="1470" height="821" alt="whois1" src="https://github.com/user-attachments/assets/4f9a74a5-b4ce-4c54-acb1-b202b905768e" />
+<img width="1470" height="405" alt="whois2" src="https://github.com/user-attachments/assets/3f72346f-7383-4254-bcb0-f5ffbd39c9db" />
+
+
 # Cyber Security Incident Report: Phishing Triage
 **Date:** July 13, 2026  
 **Analyst:** Vivek Patel  
