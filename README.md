@@ -1,5 +1,13 @@
-# Phishing-Triage-Report
-A professional incident response report and triage workflow analyzing a simulated PayPal phishing campaign. Includes IoC extraction and containment strategies.
+# Phishing Email Triage & Incident Response Report
+
+## 📌 Project Overview
+This project simulates the real-world workflow of a Security Operations Center (SOC) Analyst responding to a suspicious email report. Operating within a secure macOS environment, I performed static analysis on a suspected phishing email, extracted key Indicators of Compromise (IoCs), investigated malicious infrastructure using command-line utilities, and authored a formal Incident Report with actionable containment recommendations.
+
+### 🛠️ Skills & Tools Demonstrated
+* **Analysis Environment:** macOS (Terminal, native text processing)
+* **OSINT & Network Tools:** Native `whois` domain lookup, MX Toolbox (simulated)
+* **Core Competencies:** Email header analysis, look-alike domain identification (typosquatting), IoC defanging, and tactical incident reporting.
+* **Framework:** Standard NIST SP 800-61 Rev. 2 Incident Handling guidelines (Containment, Eradication, and Recovery).
 
 # Cyber Security Incident Report: Phishing Triage
 **Date:** July 13, 2026  
