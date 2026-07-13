@@ -3,7 +3,7 @@ A professional incident response report and triage workflow analyzing a simulate
 
 # Cyber Security Incident Report: Phishing Triage
 **Date:** July 13, 2026  
-**Analyst:** [Your Name]  
+**Analyst:** Vivek Patel  
 **Severity:** Medium  
 
 ## 1. Executive Summary
