@@ -9,6 +9,10 @@ This project simulates the real-world workflow of a Security Operations Center (
 * **Core Competencies:** Email header analysis, look-alike domain identification (typosquatting), IoC defanging, and tactical incident reporting.
 * **Framework:** Standard NIST SP 800-61 Rev. 2 Incident Handling guidelines (Containment, Eradication, and Recovery).
 
+### 📧 Phishing Email Artifact
+Key indicators like look-alike domains and urgent messaging were identified in the raw email text:
+
+![Phishing Email Screenshot](email.png)
 # Cyber Security Incident Report: Phishing Triage
 **Date:** July 13, 2026  
 **Analyst:** Vivek Patel  
